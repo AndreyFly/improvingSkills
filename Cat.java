@@ -1,7 +1,7 @@
 package package1;
 
 public class Cat {
-    private static int a = 1;
+    private static int a = 0;
     private String name;
     Cat (){
         name = "Cat" + a;
