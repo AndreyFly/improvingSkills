@@ -1,5 +1,9 @@
 package package1;
 
+
+import javafx.scene.layout.Background;
+import javafx.scene.layout.BackgroundImage;
+
 import javax.imageio.ImageIO;
 import javax.swing.*;
 import java.awt.*;
@@ -19,7 +23,6 @@ public class Hello {
            e.printStackTrace();
        }
         JFrame jFrame = new JFrame();
-
 
 
 
